@@ -1,0 +1,4 @@
+Django>=3.0
+drfpasswordless>=1.5.9
+djangorestframework-simplejwt>=5.0.0
+kavenegar>=1.1.2

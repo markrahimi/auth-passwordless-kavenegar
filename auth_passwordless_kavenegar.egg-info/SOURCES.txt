@@ -1,0 +1,12 @@
+LICENSE
+setup.cfg
+setup.py
+auth-passless/__init__.py
+auth-passless/app.py
+auth-passless/tests.py
+auth-passless/urls.py
+auth_passwordless_kavenegar.egg-info/PKG-INFO
+auth_passwordless_kavenegar.egg-info/SOURCES.txt
+auth_passwordless_kavenegar.egg-info/dependency_links.txt
+auth_passwordless_kavenegar.egg-info/requires.txt
+auth_passwordless_kavenegar.egg-info/top_level.txt
